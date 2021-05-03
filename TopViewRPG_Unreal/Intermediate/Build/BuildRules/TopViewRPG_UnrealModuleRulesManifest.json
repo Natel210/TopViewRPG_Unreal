@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Administrator\\Documents\\TopViewRPG_Unreal\\TopViewRPG_Unreal\\Source\\TopViewRPG_Unreal\\TopViewRPG_Unreal.Build.cs",
+		"C:\\Users\\Administrator\\Documents\\TopViewRPG_Unreal\\TopViewRPG_Unreal\\Source\\TopViewRPG_Unreal.Target.cs",
+		"C:\\Users\\Administrator\\Documents\\TopViewRPG_Unreal\\TopViewRPG_Unreal\\Source\\TopViewRPG_UnrealEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

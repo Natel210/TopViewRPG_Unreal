@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopViewRPG_Unreal",
+			"Path": "C:\\Users\\Administrator\\Documents\\TopViewRPG_Unreal\\TopViewRPG_Unreal\\Source\\TopViewRPG_Unreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopViewRPG_UnrealEditor",
+			"Path": "C:\\Users\\Administrator\\Documents\\TopViewRPG_Unreal\\TopViewRPG_Unreal\\Source\\TopViewRPG_UnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

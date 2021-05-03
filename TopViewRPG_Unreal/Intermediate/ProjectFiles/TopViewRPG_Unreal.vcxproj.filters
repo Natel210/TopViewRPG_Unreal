@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TopViewRPG_Unreal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5B2D4257-9C58-4432-8170-9AC31260006B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopViewRPG_Unreal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TopViewRPG_UnrealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E74C8267-8557-488F-A6EE-1B69438ACB26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TopViewRPG_Unreal">
+      <UniqueIdentifier>{CCCE93E2-DF06-4DF1-BC26-8DFE2F9D5FDD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopViewRPG_Unreal\TopViewRPG_Unreal.Build.cs">
+      <Filter>Source\TopViewRPG_Unreal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TopViewRPG_Unreal\TopViewRPG_Unreal.cpp">
+      <Filter>Source\TopViewRPG_Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopViewRPG_Unreal\TopViewRPG_Unreal.h">
+      <Filter>Source\TopViewRPG_Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopViewRPG_Unreal\TopViewRPG_UnrealGameModeBase.cpp">
+      <Filter>Source\TopViewRPG_Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopViewRPG_Unreal\TopViewRPG_UnrealGameModeBase.h">
+      <Filter>Source\TopViewRPG_Unreal</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopViewRPG_Unreal\DefineSet">
+      <UniqueIdentifier>{0AD37260-C51A-4EAC-A50E-6B085C61F71F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopViewRPG_Unreal\DefineSet\GameDefine.cpp">
+      <Filter>Source\TopViewRPG_Unreal\DefineSet</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopViewRPG_Unreal\DefineSet\GameDefine.h">
+      <Filter>Source\TopViewRPG_Unreal\DefineSet</Filter>
+    </ClInclude>
+    <Filter Include="Source\TopViewRPG_Unreal\Game">
+      <UniqueIdentifier>{75E0BD93-844C-4E9C-AF9D-48C50428372A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TopViewRPG_Unreal\Game\InGame">
+      <UniqueIdentifier>{6165D252-FBB9-4EFA-BBE2-F6E54D35FC27}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopViewRPG_Unreal\Game\InGame\Character_InGame.cpp">
+      <Filter>Source\TopViewRPG_Unreal\Game\InGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopViewRPG_Unreal\Game\InGame\Character_InGame.h">
+      <Filter>Source\TopViewRPG_Unreal\Game\InGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopViewRPG_Unreal\Game\InGame\GM_InGame.cpp">
+      <Filter>Source\TopViewRPG_Unreal\Game\InGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopViewRPG_Unreal\Game\InGame\GM_InGame.h">
+      <Filter>Source\TopViewRPG_Unreal\Game\InGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopViewRPG_Unreal\Game\InGame\PC_InGame.cpp">
+      <Filter>Source\TopViewRPG_Unreal\Game\InGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopViewRPG_Unreal\Game\InGame\PC_InGame.h">
+      <Filter>Source\TopViewRPG_Unreal\Game\InGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
